@@ -2,4 +2,4 @@
 
 rm -r build
 mkdir build
-cmake -S . -B build -DCMAKE_TOOLCHAIN_FILE=/home/ted/Projects/External/vcpkg/scripts/buildsystems/vcpkg.cmake
+cmake -S . -B build -DCMAKE_TOOLCHAIN_FILE=/home/ted/Projects/vcpkg/scripts/buildsystems/vcpkg.cmake
