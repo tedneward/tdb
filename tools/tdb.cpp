@@ -125,6 +125,8 @@ namespace {
 }
 
 int main(int argc, const char** argv) {
+    std::cout << "tdb x64 debugger v0.4 -- built 23 May 2025" << std::endl;
+
     if (argc == 1) {
         std::cerr << "No arguments given\n";
         return -1;
